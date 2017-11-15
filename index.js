@@ -5,13 +5,13 @@ function Scooter (year, color, model){
 }
 
 
-function Driver {
+function Driver() {
 
 
 
 }
 
-function PickupLocation {
+function PickupLocation() {
 
 
 }
