@@ -4,4 +4,14 @@ function Scooter (year, color, model){
   this.model = model;
 }
 
-scooter(2015, "red", "swoosh");
+
+function Driver {
+
+
+
+}
+
+function PickupLocation {
+
+
+}
