@@ -3,3 +3,5 @@ let Scooter (year, color, model){
   this.color = color;
   this.model = model;
 }
+
+scooter(2015, "red", "swoosh");
