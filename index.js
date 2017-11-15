@@ -1,10 +1,10 @@
-constructor Scooter (year, color, model){
+letScooter (year, color, model){
   this.year = year
   this.color = color
   this.model = model
 }
 
-constructor Driver 
+constructor Driver
 name
 age
 experience
