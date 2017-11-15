@@ -3,14 +3,3 @@ let Scooter (year, color, model){
   this.color = color,
   this.model = model
 };
-
-constructor Driver
-name
-age
-experience
-
-
-
-PickupLocation
-address
-city
